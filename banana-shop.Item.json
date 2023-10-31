@@ -1,0 +1,1241 @@
+[{
+  "_id": {
+    "$oid": "650b4f3da4d904ccb6c91441"
+  },
+  "name": "Souvenir AWP | Dragon Lore (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.04267336055636406,
+  "weaponQuality": "Covert",
+  "category": "Souvenir",
+  "price": 889050,
+  "image": "https://g.fp.ps.netease.com/market/file/5a86ee1020e3db3287c8b0bbSu4yojTJ",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b4fcda4d904ccb6c91442"
+  },
+  "name": "AWP | Gungnir (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.058769505470991135,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 92384,
+  "image": "https://g.fp.ps.netease.com/market/file/5dd3693b7f9d2a51e20c4f77Xd4kYXqp02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5077a4d904ccb6c91443"
+  },
+  "name": "Desert Eagle | Blaze (Minimal Wear)",
+  "type": "Weapon",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Minimal Wear",
+  "weaponFloat": 0.07456327974796295,
+  "weaponQuality": "Restricted",
+  "category": "Normal",
+  "price": 7113.43,
+  "image": "https://g.fp.ps.netease.com/market/file/5a9fc587fb758a82f7b1d0557mg3Husz",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b511ba4d904ccb6c91444"
+  },
+  "name": "MAC-10 | Urban DDPAT (Well-Worn)",
+  "type": "Weapon",
+  "weaponCategory": "SMGs",
+  "weaponExterior": "Well-Worn",
+  "weaponFloat": 0.42491573095321655,
+  "weaponQuality": "Consumer Grade",
+  "category": "Normal",
+  "price": 25.43,
+  "image": "https://g.fp.ps.netease.com/market/file/5ee0cd2f8b7427a1b6bdec37BMiZj1Ci02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5257a4d904ccb6c91449"
+  },
+  "name": "Souvenir XM1014 | Blue Steel (Battle-Scarred)",
+  "type": "Weapon",
+  "weaponCategory": "Shotguns",
+  "weaponExterior": "Battle-Scarred",
+  "weaponFloat": 0.7173371911048889,
+  "weaponQuality": "Industrial Grade",
+  "category": "Souvenir",
+  "price": 591.36,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0922916b6d4615e597e6ax4zJtqdI",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5a45a4d904ccb6c9144a"
+  },
+  "name": "Negev | Infrastructure (Well-Worn)",
+  "type": "Weapon",
+  "weaponCategory": "Machineguns",
+  "weaponExterior": "Well-Worn",
+  "weaponFloat": 0.40383028984069824,
+  "weaponQuality": "Mil-Spec Grade",
+  "category": "Normal",
+  "price": 93.2,
+  "image": "https://g.fp.ps.netease.com/market/file/614a93cfc521398d06d4a0dbHfbWyChC03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5e4ca4d904ccb6c9144b"
+  },
+  "name": "M4A1-S | Boreal Forest (Field-Tested)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Field-Tested",
+  "weaponFloat": 0.37108132243156433,
+  "weaponQuality": "Industrial Grade",
+  "category": "Normal",
+  "price": 0.87,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0b667ee4c0f8a2026a08cofgj04wo",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5ebca4d904ccb6c9144c"
+  },
+  "name": "M4A1-S | Flashback (Field-Tested)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Field-Tested",
+  "weaponFloat": 0.2814099192619324,
+  "weaponQuality": "Restricted",
+  "category": "Normal",
+  "price": 5.39,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0b66b20e3db59860c594dvl08kUjt",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5f2ba4d904ccb6c9144d"
+  },
+  "name": "M4A1-S | Knight (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.040065787732601166,
+  "weaponQuality": "Classified",
+  "category": "Normal",
+  "price": 20399,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0b61816b6d4c0d1b3cc8cK6lYUeKY",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5f73a4d904ccb6c9144e"
+  },
+  "name": "AK-47 | Wild Lotus (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06906713545322418,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 87605,
+  "image": "https://g.fp.ps.netease.com/market/file/5dd36e886f0494896252d0bctYEtoq8A02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5fc0a4d904ccb6c9144f"
+  },
+  "name": "AK-47 | Wild Lotus (Minimal Wear)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Minimal Wear",
+  "weaponFloat": 0.14762990176677704,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 66401,
+  "image": "https://g.fp.ps.netease.com/market/file/5dd36e886f0494896252d0bctYEtoq8A02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b5ff1a4d904ccb6c91450"
+  },
+  "name": "AK-47 | Wild Lotus (Field-Tested)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Field-Tested",
+  "weaponFloat": 0.34101852774620056,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 49265,
+  "image": "https://g.fp.ps.netease.com/market/file/5dd36e886f0494896252d0bctYEtoq8A02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6023a4d904ccb6c91451"
+  },
+  "name": "AK-47 | Wild Lotus (Well-Worn)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Well-Worn",
+  "weaponFloat": 0.4145183563232422,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 35074,
+  "image": "https://g.fp.ps.netease.com/market/file/5dd36e886f0494896252d0bctYEtoq8A02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b608aa4d904ccb6c91452"
+  },
+  "name": "AK-47 | Wild Lotus (Battle-Scarred)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Battle-Scarred",
+  "weaponFloat": 0.9405121803283691,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 20058,
+  "image": "https://g.fp.ps.netease.com/market/file/5dd3cc478b7427fd7b3b72a1aY2ifyNO02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b60eba4d904ccb6c91453"
+  },
+  "name": "Souvenir AK-47 | Gold Arabesque (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06640373915433884,
+  "weaponQuality": "Covert",
+  "category": "Souvenir",
+  "price": 71399,
+  "image": "https://g.fp.ps.netease.com/market/file/614aa1197fcfb785414294cc98i7yQrj03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6131a4d904ccb6c91454"
+  },
+  "name": "StatTrak™ AK-47 | Fire Serpent (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06961759179830551,
+  "weaponQuality": "Covert",
+  "category": "StatTrak™",
+  "price": 37148,
+  "image": "https://g.fp.ps.netease.com/market/file/5a7d607396dee41301398854FoN4IMOE",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6195a4d904ccb6c91455"
+  },
+  "name": "AK-47 | X-Ray (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06188554689288139,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 16205,
+  "image": "https://g.fp.ps.netease.com/market/file/5fc979387f9d2a4c379022f3NiMD8iVX02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b61f7a4d904ccb6c91456"
+  },
+  "name": "StatTrak™ M4A4 | Howl (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.0665128082036972,
+  "weaponQuality": "Contraband",
+  "category": "StatTrak™",
+  "price": 106985,
+  "image": "https://g.fp.ps.netease.com/market/file/5a7d607202c9a19b9e3801baiiXMTzzm",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b62aaa4d904ccb6c91457"
+  },
+  "name": "Souvenir M4A4 | Eye of Horus (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06724857538938522,
+  "weaponQuality": "Covert",
+  "category": "Souvenir",
+  "price": 36719,
+  "image": "https://g.fp.ps.netease.com/market/file/644725542b1fce4641334ea7hdjhiJgJ04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b62f4a4d904ccb6c91458"
+  },
+  "name": "Souvenir M4A1-S | Imminent Danger (Factory New",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.0543566532433033,
+  "weaponQuality": "Covert",
+  "category": "Souvenir",
+  "price": 26112,
+  "image": "https://g.fp.ps.netease.com/market/file/614c304d7c3c4da4e79bc8c72UKRUr9H03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b635ca4d904ccb6c91459"
+  },
+  "name": "Souvenir M4A1-S | Welcome to the Jungle (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06788022071123123,
+  "weaponQuality": "Covert",
+  "category": "Souvenir",
+  "price": 66298,
+  "image": "https://g.fp.ps.netease.com/market/file/5fc997865e60272f29ca4c9eViWdfEW002",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6447a4d904ccb6c9145a"
+  },
+  "name": "Souvenir AWP | Desert Hydra (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06956741958856583,
+  "weaponQuality": "Covert",
+  "category": "Souvenir",
+  "price": 23319,
+  "image": "https://g.fp.ps.netease.com/market/file/614aa3672e5a0e995a0dff16R6VfhdsT03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6486a4d904ccb6c9145b"
+  },
+  "name": "AUG | Akihabara Accept (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06432773917913437,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 31956,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0c287a7f25273eac5cd9cro6dp2Zr",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6502a4d904ccb6c9145c"
+  },
+  "name": "StatTrak™ AK-47 | Case Hardened (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.05154404044151306,
+  "weaponQuality": "Classified",
+  "category": "StatTrak™",
+  "price": 8385,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0c29746072b4b5cb1b17bEoyBkggK",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6554a4d904ccb6c9145d"
+  },
+  "name": "StatTrak™ M4A4 | Hellfire (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06032320857048035,
+  "weaponQuality": "Classified",
+  "category": "StatTrak™",
+  "price": 1362.87,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0b51f5e6027a6329d2667tRkZkQaw",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b659ba4d904ccb6c9145e"
+  },
+  "name": "StatTrak™ M4A4 | Cyber Security (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06556649506092072,
+  "weaponQuality": "Classified",
+  "category": "StatTrak™",
+  "price": 901.15,
+  "image": "https://g.fp.ps.netease.com/market/file/5fc976866f0494759f10b96b2hGGLx7L02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b660ba4d904ccb6c9145f"
+  },
+  "name": "Desert Eagle | Fennec Fox (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06539513915777206,
+  "weaponQuality": "Classified",
+  "category": "Normal",
+  "price": 5235.63,
+  "image": "https://g.fp.ps.netease.com/market/file/614a9ed9b866f81d91d50c8bCiCJXe8V03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b664fa4d904ccb6c91460"
+  },
+  "name": "Glock-18 | Twilight Galaxy (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.02586265280842781,
+  "weaponQuality": "Classified",
+  "category": "Normal",
+  "price": 2825.5,
+  "image": "https://g.fp.ps.netease.com/market/file/5a9fc96a5e6027ffd98d5156dWo3Q7mv",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b668fa4d904ccb6c91461"
+  },
+  "name": "Five-SeveN | Fall Hazard (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.04568441957235336,
+  "weaponQuality": "Classified",
+  "category": "Normal",
+  "price": 3196.06,
+  "image": "https://g.fp.ps.netease.com/market/file/614aaa8717dbcc886f76aa4cTiLcwH3L03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b6705a4d904ccb6c91462"
+  },
+  "name": "P250 | Apep's Curse (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06632006168365479,
+  "weaponQuality": "Classified",
+  "category": "Normal",
+  "price": 2364.51,
+  "image": "https://g.fp.ps.netease.com/market/file/6447249f3b75007be3ed7e5cUqrQlDNM04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65266bd04b7c3f78ab76796a"
+  },
+  "name": "★ StatTrak™ Karambit | Crimson Web (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Knives",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06860896944999695,
+  "weaponQuality": "Covert",
+  "category": "★ StatTrak™",
+  "price": 64258,
+  "image": "https://g.fp.ps.netease.com/market/file/5bce90da8b74271893739f09CK8iAk9u",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65266c514b7c3f78ab76796b"
+  },
+  "name": "★ Karambit | Lore (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Knives",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06547491252422333,
+  "weaponQuality": "Covert",
+  "category": "★",
+  "price": 17798,
+  "image": "https://g.fp.ps.netease.com/market/file/5a9fc3e3ee4c0f7fe968ecefiIh3mpdT",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65266cbe4b7c3f78ab76796c"
+  },
+  "name": "★ Karambit | Autotronic (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Knives",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06845748424530029,
+  "weaponQuality": "Covert",
+  "category": "★",
+  "price": 14575,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5a9fc3c2aa49f1d643abf18fvP3FawvP",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65266d8b4b7c3f78ab76796d"
+  },
+  "name": "★ Karambit | Fade (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Knives",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.032996147871017456,
+  "weaponQuality": "Covert",
+  "category": "★",
+  "price": 20601,
+  "image": "https://g.fp.ps.netease.com/market/file/5a9fc3cc143cfaf7b3da213dScjj3dsh",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65266dfc4b7c3f78ab76796e"
+  },
+  "name": "★ StatTrak™ M9 Bayonet | Crimson Web (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Knives",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06490681320428848,
+  "weaponQuality": "Covert",
+  "category": "★ StatTrak™",
+  "price": 71399,
+  "image": "https://g.fp.ps.netease.com/market/file/5a869bbca750145ef24270c1abH9OfAx",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652670074b7c3f78ab76796f"
+  },
+  "name": "★ Sport Gloves | Pandora's Box (Factory New)",
+  "type": "Gloves",
+  "weaponCategory": "Gloves",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06606609374284744,
+  "weaponQuality": "Extraordinary",
+  "category": "★",
+  "price": 356999,
+  "image": "https://g.fp.ps.netease.com/market/file/5ef4cdbfa7f2526d697156c4M69mgom102",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652670874b7c3f78ab767970"
+  },
+  "name": "★ Sport Gloves | Hedge Maze (Factory New)",
+  "type": "Gloves",
+  "weaponCategory": "Gloves",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06673666834831238,
+  "weaponQuality": "Extraordinary",
+  "category": "★",
+  "price": 192665,
+  "image": "https://g.fp.ps.netease.com/market/file/5f0d27be5e602750fcd8cc7amulJ6PYN02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652670b64b7c3f78ab767971"
+  },
+  "name": "★ Sport Gloves | Vice (Factory New)",
+  "type": "Gloves",
+  "weaponCategory": "Gloves",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06338360905647278,
+  "weaponQuality": "Extraordinary",
+  "category": "★",
+  "price": 159799,
+  "image": "https://g.fp.ps.netease.com/market/file/5ef4ce0a7f9d2adfd304ee17mI03ZI1i02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652670ed4b7c3f78ab767972"
+  },
+  "name": "★ Sport Gloves | Amphibious (Factory New)",
+  "type": "Gloves",
+  "weaponCategory": "Gloves",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06541688740253448,
+  "weaponQuality": "Extraordinary",
+  "category": "★",
+  "price": 49980,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5f0d278da7f25235e344fa03OevUXHui02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526715a4b7c3f78ab767973"
+  },
+  "name": "★ Driver Gloves | Snow Leopard (Factory New)",
+  "type": "Gloves",
+  "weaponCategory": "Gloves",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.0635915994644165,
+  "weaponQuality": "Extraordinary",
+  "category": "★",
+  "price": 32027,
+  "image": "https://g.fp.ps.netease.com/market/file/5fc9c06d5e60279cf9c9be72xZQMijyt02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526738a4b7c3f78ab767974"
+  },
+  "name": "Sticker | Titan (Holo) | Katowice 2014",
+  "type": "Sticker",
+  "weaponCategory": "Stickers",
+  "weaponExterior": "Holo",
+  "weaponFloat": 0,
+  "weaponQuality": "Remarkable",
+  "category": "Normal",
+  "price": 591599,
+  "image": "https://g.fp.ps.netease.com/market/file/5a71388d5e602776cbbe911ajyc5NIp4",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652675b04b7c3f78ab767975"
+  },
+  "name": "Sticker | iBUYPOWER (Holo) | Katowice 2014",
+  "type": "Sticker",
+  "weaponCategory": "Stickers",
+  "weaponExterior": "Holo",
+  "weaponFloat": 0,
+  "weaponQuality": "Remarkable",
+  "category": "Normal",
+  "price": 151865,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa01027aa49f1869ca15ed1DNqsGmib",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652676334b7c3f78ab767976"
+  },
+  "name": "Sticker | Reason Gaming (Holo) | Katowice 2014",
+  "type": "Sticker",
+  "weaponCategory": "Stickers",
+  "weaponExterior": "Holo",
+  "weaponFloat": 0,
+  "weaponQuality": "Remarkable",
+  "category": "Normal",
+  "price": 291260,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5a714c4c143cfa0f75f49023xE1WPP4m",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652676704b7c3f78ab767977"
+  },
+  "name": "Sticker | Team Dignitas (Holo) | Katowice 2014",
+  "type": "Sticker",
+  "weaponCategory": "Stickers",
+  "weaponExterior": "Holo",
+  "weaponFloat": 0,
+  "weaponQuality": "Remarkable",
+  "category": "Normal",
+  "price": 244799,
+  "image": "https://g.fp.ps.netease.com/market/file/5a7ac09ffb758a625bb71a4dowxj9qBf",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652676ab4b7c3f78ab767978"
+  },
+  "name": "Sticker | Reason Gaming (Holo) | Katowice 2014",
+  "type": "Sticker",
+  "weaponCategory": "Stickers",
+  "weaponExterior": "Holo",
+  "weaponFloat": 0,
+  "weaponQuality": "Remarkable",
+  "category": "Normal",
+  "price": 291260,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5a7ae78446072bbf25f68459J4pT9NRv",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526775f4b7c3f78ab767979"
+  },
+  "name": "Sir Bloody Miami Darryl | The Professionals",
+  "type": "Agent",
+  "weaponCategory": "Agent",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Master",
+  "category": "Normal",
+  "price": 547.89,
+  "image": "https://g.fp.ps.netease.com/market/file/5fc96f1f69b21a2240e5a42eydOVm6dS02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652678214b7c3f78ab76797a"
+  },
+  "name": "StatTrak™ Music Kit | The Verkkars, EZ4ENCE",
+  "type": "Music kits",
+  "weaponCategory": "Others",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "High Grade",
+  "category": "StatTrak™",
+  "price": 66.46,
+  "image": "https://g.fp.ps.netease.com/market/file/5c9d5e2e6f04946f5811f2d42F4guife02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652679e04b7c3f78ab76797d"
+  },
+  "name": "Souvenir Galil AR | VariCamo (Well-Worn)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Well-Worn",
+  "weaponFloat": 0.4116656482219696,
+  "weaponQuality": "Industrial Grade",
+  "category": "Souvenir",
+  "price": 14201,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa0258b16b6d4a1e1ea25bexmqNvQiR",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65267a334b7c3f78ab76797e"
+  },
+  "name": "StatTrak™ SCAR-20 | Enforcer (Battle-Scarred)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Battle-Scarred",
+  "weaponFloat": 0.5714439749717712,
+  "weaponQuality": "Restricted",
+  "category": "StatTrak™",
+  "price": 2355.2,
+  "image": "https://g.fp.ps.netease.com/market/file/5e83fcb17f9d2ac2a640c03bSLUTQHgi02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65267a954b7c3f78ab76797f"
+  },
+  "name": "SSG 08 | Dragonfire (Field-Tested)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Field-Tested",
+  "weaponFloat": 0.2113867551088333,
+  "weaponQuality": "Covert",
+  "category": "Normal",
+  "price": 110.89,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa09c5c8b7427da72f5a205Iqzuau5t",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65276a51553df1be7686b24e"
+  },
+  "name": "AK-47 | Phantom Disruptor (Field-Tested)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.29218608140945435,
+  "weaponQuality": "Classified",
+  "category": "Normal",
+  "price": 46.72,
+  "image": "https://g.fp.ps.netease.com/market/file/5e83e8eba7f252bf8a2f89b2ygqVgsmI02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65276aaf553df1be7686b24f"
+  },
+  "name": "MAC-10 | Sakkaku (Well-Worn)",
+  "type": "Weapon",
+  "weaponCategory": "SMGs",
+  "weaponExterior": "Well-Worn",
+  "weaponFloat": 0.04267336055636406,
+  "weaponQuality": "Restricted",
+  "category": "Normal",
+  "price": 6.5,
+  "image": "https://g.fp.ps.netease.com/market/file/63e5b341e51dec3c41dd007dZiBo4fdJ04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65276d01553df1be7686b250"
+  },
+  "name": "SG 553 | Cyberforce (Minimal Wear)",
+  "type": "Weapon",
+  "weaponCategory": "Rifles",
+  "weaponExterior": "Minimal Wear",
+  "weaponFloat": 0.14458003640174866,
+  "weaponQuality": "Mil-Spec Grade",
+  "category": "Normal",
+  "price": 1.68,
+  "image": "https://g.fp.ps.netease.com/market/file/63e5ae860bff01b7f85ba324r6H2Z3Zd04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65276d8b553df1be7686b251"
+  },
+  "name": "Glock-18 | High Beam (Factory New)",
+  "type": "Weapon",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.03737921267747879,
+  "weaponQuality": "Industrial Grade",
+  "category": "Normal",
+  "price": 2.34,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5b8ff835a7f2523ac3c7fb87Yat5qPoq?fop=imageView/2/w/560/h/656",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65277126553df1be7686b252"
+  },
+  "name": "Sticker | MOUZ (Holo) | Paris 2023",
+  "type": "Sticker",
+  "weaponCategory": "Stickers",
+  "weaponExterior": "Holo",
+  "weaponFloat": 0,
+  "weaponQuality": "Exotic",
+  "category": "Normal",
+  "price": 113.81,
+  "image": "https://g.fp.ps.netease.com/market/file/6454484b969f8911460f56ebfjvm6SR704",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527717c553df1be7686b253"
+  },
+  "name": "Paris 2023 Contenders Sticker Capsule",
+  "type": "Weapon Cases",
+  "weaponCategory": "Others",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Base Grade",
+  "category": "Normal",
+  "price": 2.48,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/645446ca36cc4b42a7ebbeb2ObGzhWZ504",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65277263553df1be7686b254"
+  },
+  "name": "Operator | FBI SWAT",
+  "type": "Agent",
+  "weaponCategory": "Agent",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Distinguished",
+  "category": "Normal",
+  "price": 46.8,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5ee6ea6c5e602775da8677c6fwZE4uYo02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65277350553df1be7686b255"
+  },
+  "name": "Dragomir | Sabre",
+  "type": "Agent",
+  "weaponCategory": "Agent",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Exceptional",
+  "category": "Normal",
+  "price": 24.02,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5ee6eb3296dee4faec879e56daXd47kR02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527738b553df1be7686b256"
+  },
+  "name": "Number K | The Professionals",
+  "type": "Agent",
+  "weaponCategory": "Agent",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Superior",
+  "category": "Normal",
+  "price": 318.23,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5fc966f36f04945adf35c1bfHukuIAJj02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652773eb553df1be7686b257"
+  },
+  "name": "Souvenir AWP | Dragon Lore (Factory New)",
+  "type": "Knives",
+  "weaponCategory": "Knives",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.06394150108098984,
+  "weaponQuality": "Covert",
+  "category": "★",
+  "price": 6543.66,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5b6ea1a0a7f2521fa9499b89T8kJLa8Z",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65277462553df1be7686b258"
+  },
+  "name": "StatTrak™ Glock-18 | Vogue (Field-Tested)",
+  "type": "Pistols",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Field-Tested",
+  "weaponFloat": 0.20237065851688385,
+  "weaponQuality": "Classified",
+  "category": "StatTrak™",
+  "price": 63.95,
+  "image": "https://g.fp.ps.netease.com/market/file/5f2cb4fb143cfad001576de7tRA4MqrW02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65277a43553df1be7686b259"
+  },
+  "name": "Five-SeveN | Scrawl (Minimal Wear)",
+  "type": "Pistols",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Minimal Wear",
+  "weaponFloat": 0.14267677068710327,
+  "weaponQuality": "Mil-Spec Grade",
+  "category": "Normal",
+  "price": 1.1,
+  "image": "https://g.fp.ps.netease.com/market/file/61ea045bc2329a434d3a7936xSB8SADj04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65277ba1553df1be7686b25a"
+  },
+  "name": "StatTrak™ USP-S | Printstream (Factory New)",
+  "type": "Pistols",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Minimal Wear",
+  "weaponFloat": 0.06965350359678268,
+  "weaponQuality": "Covert",
+  "category": "StatTrak™",
+  "price": 3718.58,
+  "image": "https://g.fp.ps.netease.com/market/file/62bf850700722e66448322fagwdOiFPg04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65277c45553df1be7686b25b"
+  },
+  "name": "Desert Eagle | Printstream (Field-Tested)",
+  "type": "Pistols",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Field-Tested",
+  "weaponFloat": 0.30978626012802124,
+  "weaponQuality": "Covert",
+  "category": "Normal™",
+  "price": 404.45,
+  "image": "https://g.fp.ps.netease.com/market/file/5f2cc5fe6f0494116fe13465R9TfZKuf02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65361aee8e4956230107cb89"
+  },
+  "name": "D Squadron Officer | NZSAS",
+  "type": "Agent",
+  "weaponCategory": "Agent",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Distinguished",
+  "category": "Normal",
+  "price": 215.92,
+  "image": "https://g.fp.ps.netease.com/market/file/614aa1bf16b6d46f5f48e3b8SuHcj1rq03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65361b4d8e4956230107cb8a"
+  },
+  "name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
+  "type": "Agent",
+  "weaponCategory": "Agent",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Master",
+  "category": "Normal",
+  "price": 433.75,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/614a9d21a37d2ca8e6c20c72s4BQd49R03",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65361bd08e4956230107cb8b"
+  },
+  "name": "Desert Eagle | Blue Ply (Factory New)",
+  "type": "Pistols",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.017368873581290245,
+  "weaponQuality": "Mil-Spec Grade",
+  "category": "Normal",
+  "price": 10.61,
+  "image": "https://g.fp.ps.netease.com/market/file/5e83dfe85e6027d529ede9b38HOdXT1c02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65361c2b8e4956230107cb8c"
+  },
+  "name": "Tec-9 | Ice Cap (Factory New)",
+  "type": "Pistols",
+  "weaponCategory": "Pistols",
+  "weaponExterior": "Factory New",
+  "weaponFloat": 0.060471467673778534,
+  "weaponQuality": "Mil-Spec Grade",
+  "category": "Normal",
+  "price": 5.05,
+  "image": "https://g.fp.ps.netease.com/market/file/5aa09a7969b21a6a8a3caf7cWqWQ3oA6",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65361cf48e4956230107cb8d"
+  },
+  "name": "★ Hand Wraps | Cobalt Skulls (Minimal Wear)",
+  "type": "Gloves",
+  "weaponCategory": "Gloves",
+  "weaponExterior": "Minimal Wear",
+  "weaponFloat": 0.12691420316696167,
+  "weaponQuality": "Extraordinary",
+  "category": "★",
+  "price": 9203,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5a9fd0bd20e3db721bfc0601S2ZTVgho",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65361eeb8e4956230107cb8e"
+  },
+  "name": "Sealed Graffiti | Broken Heart (Bazooka Pink)",
+  "type": "Spray",
+  "weaponCategory": "Others",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Base Grade",
+  "category": "Normal",
+  "price": 11.49,
+  "image": "\thttps://g.fp.ps.netease.com/market/file/5dd32db08b7427806c951450C5iKWA6t02",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65361f518e4956230107cb8f"
+  },
+  "name": "Dreams & Nightmares Case",
+  "type": "Weapon Cases",
+  "weaponCategory": "Others",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Covert",
+  "category": "Base Grade",
+  "price": 12.44,
+  "image": "https://g.fp.ps.netease.com/market/file/61ea007291df686b72795522ILtdbSRG04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653620588e4956230107cb90"
+  },
+  "name": "Paris 2023 Viewer Pass + 3 Souvenir Tokens",
+  "type": "Passes",
+  "weaponCategory": "Others",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Base Grade",
+  "category": "Normal",
+  "price": 114.8,
+  "image": "https://g.fp.ps.netease.com/market/file/64544378bb5142456128e266Zm0zbNli04",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653620d28e4956230107cb91"
+  },
+  "name": "Name Tag",
+  "type": "Tools",
+  "weaponCategory": "Others",
+  "weaponExterior": "",
+  "weaponFloat": 0,
+  "weaponQuality": "Base Grade",
+  "category": "Normal",
+  "price": 14.93,
+  "image": "https://g.fp.ps.netease.com/market/file/5a9fe247aa49f138b5a0c0c9veGylpIE",
+  "createdAt": "2023-09-18T15:23:33.273Z",
+  "updatedAt": "2023-09-18T15:23:33.273Z",
+  "__v": 0
+}]
